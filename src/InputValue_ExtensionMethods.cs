@@ -1,8 +1,3 @@
-﻿// This file is part of the Input Parameters library for LANDIS-II.
-// For copyright and licensing information, see the NOTICE and LICENSE
-// files in this project's top-level directory, and at:
-//   http://landis-extensions.googlecode.com/svn/libs/parameters/trunk/
-
 using Edu.Wisc.Forest.Flel.Util;
 
 namespace Landis.Library.Parameters
