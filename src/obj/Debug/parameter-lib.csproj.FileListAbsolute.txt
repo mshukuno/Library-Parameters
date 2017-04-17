@@ -1,0 +1,9 @@
+C:\Users\avala\Desktop\Landis Util Upgrade\Library-Parameters\src\bin\Debug\Landis.Library.Parameters-v1.xml
+C:\Users\avala\Desktop\Landis Util Upgrade\Library-Parameters\src\bin\Debug\Landis.Library.Parameters-v1.dll
+C:\Users\avala\Desktop\Landis Util Upgrade\Library-Parameters\src\bin\Debug\Landis.Library.Parameters-v1.pdb
+C:\Users\avala\Desktop\Landis Util Upgrade\Library-Parameters\src\bin\Debug\Landis.Core.dll
+C:\Users\avala\Desktop\Landis Util Upgrade\Library-Parameters\src\bin\Debug\Landis.Library.Utilities.dll
+C:\Users\avala\Desktop\Landis Util Upgrade\Library-Parameters\src\bin\Debug\Landis.SpatialModeling.dll
+C:\Users\avala\Desktop\Landis Util Upgrade\Library-Parameters\src\bin\Debug\Troschuetz.Random.dll
+C:\Users\avala\Desktop\Landis Util Upgrade\Library-Parameters\src\obj\Debug\Landis.Library.Parameters-v1.dll
+C:\Users\avala\Desktop\Landis Util Upgrade\Library-Parameters\src\obj\Debug\Landis.Library.Parameters-v1.pdb
