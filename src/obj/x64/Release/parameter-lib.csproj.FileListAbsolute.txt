@@ -1,0 +1,10 @@
+C:\Users\avala\Desktop\Landis Util Upgrade\Library-Parameters\src\bin\x64\Release\Landis.Library.Parameters-v1.dll
+C:\Users\avala\Desktop\Landis Util Upgrade\Library-Parameters\src\bin\x64\Release\Landis.Library.Parameters-v1.pdb
+C:\Users\avala\Desktop\Landis Util Upgrade\Library-Parameters\src\bin\x64\Release\Landis.Library.Parameters-v1.xml
+C:\Users\avala\Desktop\Landis Util Upgrade\Library-Parameters\src\bin\x64\Release\Landis.Core.dll
+C:\Users\avala\Desktop\Landis Util Upgrade\Library-Parameters\src\bin\x64\Release\Landis.Library.Utilities.dll
+C:\Users\avala\Desktop\Landis Util Upgrade\Library-Parameters\src\bin\x64\Release\Landis.SpatialModeling.dll
+C:\Users\avala\Desktop\Landis Util Upgrade\Library-Parameters\src\bin\x64\Release\Troschuetz.Random.dll
+C:\Users\avala\Desktop\Landis Util Upgrade\Library-Parameters\src\obj\x64\Release\parameter-lib.csprojResolveAssemblyReference.cache
+C:\Users\avala\Desktop\Landis Util Upgrade\Library-Parameters\src\obj\x64\Release\Landis.Library.Parameters-v1.dll
+C:\Users\avala\Desktop\Landis Util Upgrade\Library-Parameters\src\obj\x64\Release\Landis.Library.Parameters-v1.pdb
